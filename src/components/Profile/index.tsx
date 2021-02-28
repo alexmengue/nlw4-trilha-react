@@ -8,9 +8,9 @@ function Profile() {
 
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/alexmengue.png" alt="Alex mengue" />
+      <img src="https://support.grasshopper.com/assets/images/care/topnav/default-user-avatar.jpg" alt="Alex mengue" />
       <div>
-        <strong>Alex Mengue</strong>
+        <strong>Usuário</strong>
         <p>
           <img src="icons/level.svg" alt="Level" />
           Level {level}
